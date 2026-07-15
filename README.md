@@ -17,6 +17,10 @@ python3 main.py
 | Nom d'utilisateur | `admin`    |
 | Mot de passe      | `admin123` |
 
+## Démonstration
+
+![Démo de l'application](gestionstockdev103.gif)
+
 ## Fonctionnalites
 
 - Ajouter, modifier et supprimer des produits
